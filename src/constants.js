@@ -28,6 +28,11 @@ export const TERRITORIES = [
     id: 'tundra',
     name: 'Tundra',
     superpower: 'Let it snow!'
+  },
+  {
+    id: 'desert',
+    name: 'Desert',
+    superpower: 'Sand man!'
   }
 ]
 
@@ -44,6 +49,10 @@ export const OTHER_KINGDOMS = [
   {
     app: 'http://localhost:3001',
     ruler: 'larz.id'
+  },
+  {
+    app: 'https://animalkingdoms.netlify.com',
+    ruler: 'meepers.id.blockstack'
   },
   {
     app: 'https://decentralised-islands.netlify.com',
